@@ -20,7 +20,13 @@
     ],
     "heads": {
         "default": [
-            "./h1.png"
+            "./h1.png",
+            "./h2.png",
+            "./h3.png",
+            "./h4.png",
+            "./h5.png",
+            "./h6.png",
+            "./h20.png"
         ]
     },
     "poses": [
@@ -31,10 +37,12 @@
                 "default"
             ],
 	    "left": [
-		"./l1.png"
+		"./l1.png",
+		"./l2.png"
 	    ],
 	    "right": [
-		"./r1.png"
+		"./r1.png",
+		"./r2.png"
 	    ]
         }
     ]
